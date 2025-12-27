@@ -12,35 +12,31 @@ I enjoy working on real-world datasets, building scalable solutions, and applyin
 
 **Programming & Tools**
 
-Python
+  - Python
+  - R
+  - SQL
+  - Power BI
+  - Tableau
 
-SQL
-
-Power BI
-
-Tableau
 
 **Data Skills**
 
-Data Cleaning & Preprocessing
+  - Data Cleaning & Preprocessing
+  - Exploratory Data Analysis (EDA)
+  - Data Visualization & Reporting
+  - Statistical Analysis
+  - ETL Concepts & Data Pipelines
 
-Exploratory Data Analysis (EDA)
-
-Data Visualization & Reporting
-
-Statistical Analysis
-
-ETL Concepts & Data Pipelines
 
 **Core Strengths**
 
-Analytical thinking
+  - Analytical thinking
 
-Problem-solving mindset
+  - Problem-solving mindset
 
-Engineering-based approach to data
+  - Engineering-based approach to data
 
-Attention to data quality and structure
+  - Attention to data quality and structure
 
 ## 📂 Projects
 **🔹 Data Analysis Projects**
