@@ -8,7 +8,7 @@ I focus on transforming raw data into meaningful insights by combining engineeri
 
 I enjoy working on real-world datasets, building scalable solutions, and applying analytical thinking to improve decision-making and operational efficiency.
 
-#🧠 Technical Skills
+# 🧠 Technical Skills
 
 Programming & Tools
 
