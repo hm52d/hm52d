@@ -42,10 +42,12 @@ I enjoy working on real-world datasets, building scalable solutions, and applyin
   - Performed exploratory data analysis (EDA) on real-world datasets to identify trends, patterns, and actionable insights.
   - Built interactive dashboards using Power BI and Tableau for data-driven decision-making.
 
+
 **🔹 Data Engineering Projects**
 
   - Designed and implemented data pipelines for cleaning, transforming, and structuring raw data.
   - Worked with structured datasets using SQL to optimize queries and improve performance.
+
 
 **🔹 Data Science Projects**
   - Applied statistical analysis and basic machine learning techniques to solve analytical problems.
