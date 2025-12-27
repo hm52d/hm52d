@@ -8,7 +8,7 @@ I focus on transforming raw data into meaningful insights by combining engineeri
 
 I enjoy working on real-world datasets, building scalable solutions, and applying analytical thinking to improve decision-making and operational efficiency.
 
-# 🧠 Technical Skills
+### 🧠 Technical Skills
 
 Programming & Tools
 
@@ -42,7 +42,7 @@ Engineering-based approach to data
 
 Attention to data quality and structure
 
-📂 Projects
+### 📂 Projects
 🔹 Data Analysis Projects
 
 Performed exploratory data analysis (EDA) on real-world datasets to identify trends, patterns, and actionable insights.
