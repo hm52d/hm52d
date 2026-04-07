@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Eng. Hamad Alodah 👋</h1>
   <h3>⚗️ Chemical Engineer × Data Enthusiast 📊</h3>
 </div>
 
@@ -100,8 +100,8 @@ turning raw data into actionable insights that drive smarter decisions.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hm52d/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:HamadAlodah@outlook.sa)
 
 </div>
 
