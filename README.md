@@ -84,18 +84,6 @@ turning raw data into actionable insights that drive smarter decisions.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hm52d&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hm52d&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
