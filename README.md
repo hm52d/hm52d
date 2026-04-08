@@ -63,7 +63,7 @@ turning raw data into actionable insights that drive smarter decisions.
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | Retail-Uplift-Testing-and-Customer-Analytics | Analyzing FMCG customer behavior and evaluating store layouts through statistical A/B testing | Python | [Link](https://github.com/hm52d/Retail-Analytics-and-AB-Testing) |
-| 🚧 Coming Soon | Real-world EDA & Dashboard | Python, Power BI | — |
+| 🚧 Coming Soon | - | - | — |
 
 ---
 
@@ -72,7 +72,7 @@ turning raw data into actionable insights that drive smarter decisions.
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| 🚧 Coming Soon | Predictive Modeling | Python, Scikit-learn | — |
+| 🚧 Coming Soon | - | - | — |
 
 ---
 
